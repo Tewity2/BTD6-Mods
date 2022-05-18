@@ -20,10 +20,6 @@ Armor Piercing Darts: can pop lead
 Gives a 30% discount to all Tier 5 upgrades, plus 10% discount to all other upgrades and placement costs
 
 
-# FireRate100x:
-Self explanatory.
-
-
 # HeroExpBoost:
 Heroes level up twice as fast (technically, XP cost is halved)
 
